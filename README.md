@@ -14,6 +14,10 @@
 
 - 📫 How to reach me **mishrasiddharth072@gmail.com**
 
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/Sid3503)
+
+- 📄 Know about [me](https://exuberant-week-19a.notion.site/Siddharth-Mishra-c534e96b354b45db87a6b45ee22cf90e?pvs=4)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/SiddharthM3503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddharthm3503" height="30" width="40" /></a>
