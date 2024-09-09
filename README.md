@@ -32,3 +32,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sid3503&show_icons=true&locale=en&layout=compact" alt="sid3503" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sid3503&show_icons=true&locale=en" alt="sid3503" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sid3503&" alt="sid3503" /></p>
