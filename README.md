@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/Sid3503?tab=repositories)
 
-- 🌐  Know about [me](https://exuberant-week-19a.notion.site/Siddharth-Mishra-c534e96b354b45db87a6b45ee22cf90e?pvs=4)
+- 🌐  [Portfolio](https://siddharthmishra.vercel.app/)
 
 - 📑 [Resume](https://drive.google.com/file/d/1OTKc4kSMxJjLeRRTrwR-dhNyTYgYkdQO/view?usp=sharing)
 
