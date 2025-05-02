@@ -35,6 +35,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sid3503&show_icons=true&locale=en&layout=compact" alt="sid3503" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sid3503&show_icons=true&locale=en" alt="sid3503" /></p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sid3503?cardType=github&theme=ocean-dark&preferLogin=true&Border=C19CDD)](https://git.io/awesome-stats-card)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sid3503&" alt="sid3503" /></p>
