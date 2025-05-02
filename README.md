@@ -35,6 +35,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sid3503&show_icons=true&locale=en&layout=compact" alt="sid3503" /></p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sid3503&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sid3503&theme=tokyonight)
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sid3503?cardType=github&theme=ocean-dark&preferLogin=true&Border=C19CDD)](https://git.io/awesome-stats-card)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sid3503&" alt="sid3503" /></p>
