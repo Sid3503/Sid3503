@@ -56,7 +56,7 @@
       </a>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sid3503&" alt="sid3503" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=sid3503&theme=ocean_dark&hide_border=false"/>
     </td>
   </tr>
 </table>
