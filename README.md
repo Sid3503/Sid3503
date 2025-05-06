@@ -16,7 +16,7 @@
 
 - 🌐  [Portfolio](https://siddharthmishra.vercel.app/)
 
-- 📑 [Resume]()
+- 📑 [Resume](https://exuberant-week-19a.notion.site/Siddharth-Mishra-c534e96b354b45db87a6b45ee22cf90e)
 
 
 ## Connect with me  
