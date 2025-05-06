@@ -33,9 +33,6 @@
 <a href="https://linkedin.com/in/siddharth-mishra-0a5227228/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://peerlist.io/sid3503" target="_blank">
-<img src=https://github-readme-badge.peerlist.io/api/sid3503?style=social alt=peerlist style="margin-bottom: 5px;" />
-</a>
 </div> 
 
 <h3 align="left">Languages and Tools:</h3>
